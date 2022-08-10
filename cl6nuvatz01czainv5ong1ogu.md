@@ -88,7 +88,7 @@ This special expression is used to execute an expression after executing all the
 > - *RS*
 > - *OFS*
 
-### NR (Number of Fields) : 
+### NR (Number of Records) : 
 Counts the number of input records (usually lines).
 
 ![Screenshot 2022-08-09 at 8.14.39 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660148780667/EsLj07r74.png align="left")
