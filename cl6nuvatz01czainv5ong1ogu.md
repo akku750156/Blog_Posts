@@ -132,6 +132,15 @@ Inserting a pattern in front of an action in awk acts as a selector. The selecto
 
 ![Results contain character t'.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660149042059/ov0sOqUZa.png align="left")
 
+# AWK with previous Output
+
+We can also use 'awk' command with the **Output** of previous command as an **Input**.
+
+> ( | ) is used to pass the output of the previous command as an Input for the next command.
+
+
+![Screenshot 2022-08-11 at 1.55.32 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660206594278/R0vkIAOjU.png align="left")
+
 # Conclusion 🙇🏽‍♂️
 
 In this post, I discussed about AWK command of linux which basically helps us for any text processing on any file.
