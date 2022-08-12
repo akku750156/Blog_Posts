@@ -53,7 +53,7 @@ If you want to print just the first row of the file.>
 > - -f
 
 ### **-F** (Option)
-This is used to specify the file separator by default it is blank space.
+This is used to specify the field separator by default it is blank space.
 
 **Ex:**
 We have a file example1.txt with comma(‘ , ’) separated words and you want to get the first words of every records
