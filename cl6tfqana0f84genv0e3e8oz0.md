@@ -10,7 +10,8 @@ These linux command are used to manage, control and configure all the systemd sy
 
 **EX:** Helps to start a service named jenkins
 
-![Screenshot 2022-08-14 at 4.36.55 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660475246622/hjgNYFjWj.png align="left")
+
+![Screenshot 2022-08-14 at 4.36.55 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660488854536/VW8GcGMYh.png align="left")
 
 # Commands 🖥
 
@@ -30,7 +31,7 @@ These linux command are used to manage, control and configure all the systemd sy
 Command used to list all the files in the systemd and gives all the state and configurations it is following.
 
 
-![Screenshot 2022-08-14 at 4.42.19 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660475544829/xk0_PSfVe.png align="left")
+![Screenshot 2022-08-14 at 8.18.11 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660488532099/FKFNwKrpA.png align="left")
 
 **UNIT-FILES** - Gives the names of all the files in the systemd
 
