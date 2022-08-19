@@ -93,7 +93,7 @@ It is the maximum size of a packet in bytes that can be transferred on the netwo
 
 This command is used to show / manipulate routing, network devices, interfaces and tunnels.
 
-# Features in ip
+## Features in ip
 
 - **To show all the interfaces.**
 
