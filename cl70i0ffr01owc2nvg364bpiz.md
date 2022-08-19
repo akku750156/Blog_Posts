@@ -1,4 +1,4 @@
-## ifconfig / ip:  Linux Commands
+## IFCONFIG / IP:  Linux Commands
 
 
 # Introduction 👋🏽
