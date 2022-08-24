@@ -42,7 +42,7 @@ The syntax consists of 4 things
 > and so on…
 
 **EX**
-If you want to print just the first row of the file.> 
+If you want to print just the first field of each record.> 
 
 
 ![Filesysten.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660147638244/oghEirtfR.png align="left")
