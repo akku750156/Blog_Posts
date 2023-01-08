@@ -1,4 +1,4 @@
-## IFCONFIG / IP:  Linux Command
+# IFCONFIG / IP:  Linux Command
 
 
 # Introduction 👋🏽
@@ -184,7 +184,6 @@ In this post, I discussed about Some networking command of linux which basically
 
 **IP ROUTE** : Used to manage the static routing in the network.
 
-> NOTE : Not covered in this one, because it deserves a dedicated blog. If you will come here after 4 days, when this blog is published, you will get the link for IP ROUTE and many other commands related to **NETWORKING**
 
 # Socials 🤝
 
